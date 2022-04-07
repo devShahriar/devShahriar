@@ -8,6 +8,8 @@ Passonate about Backend Engineering and Devops.
 
 ![alt text](https://shahriar.vercel.app/tech_stack.svg= 250x250)
 
+![](https://shahriar.vercel.app/tech_stack.sv =250x250)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devShahriar&show_icons=true&theme=radical)
 
