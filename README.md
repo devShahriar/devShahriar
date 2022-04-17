@@ -24,7 +24,7 @@ Backend Technologies: gRPC, Websocket, Graphql, Elasticsearch, Django, Node js, 
 Cloud: AWS , GCP
 
 
-<img align="right" src="https://shahriar.vercel.app/tech_stack.svg" width="200" height="200">
+<img align="center" src="https://shahriar.vercel.app/tech_stack.svg" width="400" height="400">
 
 ![Shahriar's GitHub stats](https://github-readme-stats.vercel.app/api?username=devShahriar&show_icons=true&theme=radical)
 
